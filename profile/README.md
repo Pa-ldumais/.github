@@ -70,9 +70,6 @@ We're always looking for collaborators, contributors, and curious minds!
 ### 💼 Professional Network
 **[LinkedIn: SoludDev](https://www.linkedin.com/company/soluddev)**
 
-### 🐦 Social Media
-**[Bluesky: @solud.dev](https://bsky.app/profile/solud.dev)** | **[X: @SoludDev](https://x.com/SoludDev)**
-
 ### ✉️ Email
 **[support@solud.dev](mailto:support@solud.dev)**
 
