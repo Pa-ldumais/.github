@@ -12,8 +12,6 @@
 [![Email](https://img.shields.io/badge/📧_Email-support@solud.dev-0078D4?style=for-the-badge&logoColor=white)](mailto:support@solud.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SoludDev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/soluddev)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@solud.dev-0284C7?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/solud.dev)
-[![X](https://img.shields.io/badge/X-@SoludDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SoludDev)
 
 ---
 
